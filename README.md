@@ -1,3 +1,17 @@
+> # ⚠️ This repository has moved
+>
+> **Active development of `resume-cli` now lives in the JSON Resume monorepo:**
+> ### 👉 https://github.com/jsonresume/jsonresume.org (in `packages/cli`)
+>
+> - **The npm package name is unchanged** — `npm install -g resume-cli` still works and now publishes from the monorepo.
+> - **The CLI has been revived for Node 18+ (2026).** See the pinned revival announcement: [jsonresume/jsonresume.org#786](https://github.com/jsonresume/jsonresume.org/issues/786).
+> - **Please file all new issues and pull requests in the monorepo:** https://github.com/jsonresume/jsonresume.org/issues
+> - Related: org consolidation tracking issue [jsonresume/jsonresume.org#275](https://github.com/jsonresume/jsonresume.org/issues/275).
+>
+> This repository is now **archived (read-only)**. Existing open issues remain visible for reference; the announcement above explains where to refile.
+>
+> ---
+
 # resume-cli
 
 [![matrix](https://img.shields.io/badge/matrix-join%20chat-%230dbd8b)](https://matrix.to/#/#json-resume:one.ems.host)
